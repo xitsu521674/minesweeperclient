@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "minesweeperclient",
+  "id": "d3ce7da3-0fe4-40ab-bfe6-c0c768afdce7",
+  "version": "2.4.0",
+  "isNew": false
+}
